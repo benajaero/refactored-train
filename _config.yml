@@ -20,4 +20,4 @@ description: "My personal project"
 url: "https://blaze349.github.io"
 baseurl: "/refactored-train"
 repository: "blaze349/refactored-train"
-
+search: true
