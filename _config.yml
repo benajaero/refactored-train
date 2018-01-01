@@ -21,3 +21,5 @@ url: "https://blaze349.github.io"
 baseurl: "/refactored-train"
 repository: "blaze349/refactored-train"
 search: true
+paginate: 10 # amount of posts to show
+paginate_path: /page:num/
