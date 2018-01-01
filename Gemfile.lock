@@ -243,7 +243,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (~> 3.5)
   jekyll-remote-theme
   minimal-mistakes-jekyll
 
