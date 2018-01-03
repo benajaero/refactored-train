@@ -24,9 +24,10 @@ defaults:
       values:
           layout: single
           author_profile: true
-          locale: "en-US"
-          title: "Refactored Train 🚂"
-          title_separator: "🍭🌈☀️🦄"
+locale: "en-US"
+title: "Refactored Train 🚂"
+name: "Refactored Train 🚂"
+title_separator: "🍭🌈☀️🦄"
 description: "My personal project"
 url: "https://blaze349.github.io"
 baseurl: "/refactored-train"
