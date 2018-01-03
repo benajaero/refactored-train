@@ -1,3 +1,6 @@
+The final part list for the computer.
+
+
 [PCPartPicker part list](https://au.pcpartpicker.com/list/LhqWM8) / [Price breakdown by merchant](https://au.pcpartpicker.com/list/LhqWM8/by_merchant/)
 
 Type|Item|Price
