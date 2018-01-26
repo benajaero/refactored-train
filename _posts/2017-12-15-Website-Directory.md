@@ -5,11 +5,13 @@
 
 # Programming Language
 
-(Designing the language):
+### Designing the language:
 * http://www.theenterprisearchitect.eu/blog/2013/02/14/designing-the-next-programming-language-understand-how-people-learn/
 * http://www.paulgraham.com/langdes.html
 * https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
-
+* https://en.wikibooks.org/wiki/Introduction_to_Programming_Languages/Grammars
+* https://en.wikipedia.org/wiki/Semantics_(computer_science)
+* https://en.wikipedia.org/wiki/Syntax_(programming_languages)
 
 ### Parsing
 
@@ -19,5 +21,6 @@
 * https://www.safaribooksonline.com/library/view/flex-bison/9780596805418/ch01.html
 * https://www.gnu.org/software/bison/manual/bison.html
 * https://www.cs.rochester.edu/~nelson/courses/csc_173/grammars/cfg.html
+* https://stackoverflow.com/questions/6713240/what-is-a-context-free-grammar
 
 
