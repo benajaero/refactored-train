@@ -2,7 +2,7 @@
 title: Why I'm Using Arch As My Base
 ---
 
-* Upon careful consideration and research, I've decided to use Arch Linux as the base for my operating system. *
+*Upon careful consideration and research, I've decided to use Arch Linux as the base for my operating system.*
 
 An important aspect in creating an optimal programming environment is the actual virtual virtual environment. The operating system manages processes, memory usage and input/output streams. It's composed of various programs that interlock together to control usage of hardware. There were a number of methods I considered for creating my operating system.
 
