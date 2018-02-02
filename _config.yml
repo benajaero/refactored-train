@@ -9,6 +9,7 @@ collections:
   journal:
     output: true
     permalink: /:collection/:path/
+include: ['_pages']
 defaults:
   # _posts
   - scope:
