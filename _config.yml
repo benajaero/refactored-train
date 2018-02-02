@@ -5,11 +5,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-
 collections:
-    journal:
-        output: true
-        permalink: /:collection/:path/
+  journal:
+    output: true
+    permalink: /:collection/:path/
 defaults:
   # _posts
   - scope:
