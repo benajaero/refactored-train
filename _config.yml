@@ -5,6 +5,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+
+collections:
+    journal:
+        output: true
+        permalink: /:collection/:path/
 defaults:
   # _posts
   - scope:
@@ -24,6 +29,13 @@ defaults:
       values:
           layout: single
           author_profile: true
+  - scope:
+      path: ""
+      type: journal
+      values:
+          layout: single
+          author_profile: false
+          share: true
 locale: "en-US"
 title: "Refactored Train 🚂"
 name: "Refactored Train 🚂"
