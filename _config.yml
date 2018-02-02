@@ -29,6 +29,7 @@ defaults:
       values:
           layout: single
           author_profile: true
+    # _journal
   - scope:
       path: ""
       type: journal
