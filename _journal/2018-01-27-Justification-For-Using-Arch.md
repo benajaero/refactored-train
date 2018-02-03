@@ -5,6 +5,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 header:
   image: /assets/Arch-Linux.png
+  teaser: /assets/Arch-Linux.png
 ---
 
 *Upon careful consideration and research, I've decided to use Arch Linux as the base for my operating system.*
