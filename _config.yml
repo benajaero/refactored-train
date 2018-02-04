@@ -48,3 +48,4 @@ repository: "blaze349/refactored-train"
 search: true
 paginate: 10 # amount of posts to show
 paginate_path: /list/page:num/
+teaser: /assets/images/mandlebrot.jpg
