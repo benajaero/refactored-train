@@ -3,11 +3,17 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
-# Part 1:  Focus on a topic leading towards a product/outcome
 
-* Identifying a goal - a final outcome or product
-* Selecting a global context to define the goal
-* Creating a set of specific criteria to measure the quality of the porject final outcome or product
+### General Information
+
+Topic:* The relationship between physical, virtual and abstract computing components*
+Research Question: *How do physical and virtual subsystems combine to form an optimal programming environment?*
+
+Goal: My goal is to provide the programming community with tools to improve development through a custom environment comprised of customised hardware, a customised operating system and a custom programming language.
+
+Global Context: Scientific and technical innovation
+For my global context I was originally split between doing *personal and cultural expression* and *scientific and technical innovation*. 
+
 
 ### Questions
 *27 Jan 2018*
@@ -29,7 +35,7 @@ The outcome of my project will be a specialized programming environment/setup in
 > * Linux Kernel
 > * Git Version Control
 > * A window manager / tile manager
-> * Package Manager 
+> * Package Manager alC
 
 > Programming Language 
 > * Lexer
@@ -62,9 +68,6 @@ The outcome of my project will be a specialized programming environment/setup in
 
 - What do I already know about my project?
 
-
-
-# Collaboration with supervisor
 
 
 # General Entries
