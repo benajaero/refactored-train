@@ -6,7 +6,7 @@ toc_icon: "cog"
 
 ### General Information
 
-Topic:* The relationship between physical, virtual and abstract computing components*
+Topic:*The relationship between physical, virtual and abstract computing components*
 Research Question: *How do physical and virtual subsystems combine to form an optimal programming environment?*
 
 Goal: My goal is to provide the programming community with tools to improve development through a custom environment comprised of customised hardware, a customised operating system and a custom programming language.
