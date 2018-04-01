@@ -8,8 +8,15 @@ http://au.pcmag.com/storage-devices-reviews/8831/feature/ssd-vs-hdd-whats-the-di
 https://www.youtube.com/watch?v=hr0qLLv3dKc
 https://www.lifewire.com/motherboards-system-boards-and-mainboards-2618154
 https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/install-windows-from-a-usb-flash-drive
+https://support.microsoft.com/en-au/help/15088/windows-create-installation-media
 https://www.howtogeek.com/214571/how-to-dual-boot-linux-on-your-pc/
 http://www.tomshardware.com/answers/id-3357734/nzxt-s340-elite-fan-configuration.html
+https://ubuntuforums.org/showthread.php?t=1709532
+https://superuser.com/questions/317939/stock-cooler-for-core-i7-2600-close-to-80c-at-idle-will-aftermarket-one-help
+https://ubuntuforums.org/showthread.php?t=1709532
+https://gadgets.ndtv.com/laptops/features/windows-10-home-vs-windows-10-pro-differences-new-features-718532
+
+
 
 
 # Custom Linux Distro
