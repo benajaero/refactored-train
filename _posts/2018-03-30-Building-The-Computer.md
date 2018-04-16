@@ -31,5 +31,6 @@ The first step in building the computer is assembling the core components on the
 | ![PC Parts]({{site.url}}{{site.baseurl}}/assets/pcbuilding2.jpg) | ![PC Parts]({{site.url}}{{site.baseurl}}/assets/pcbuilding3.jpg) |
 
 To install these: First remove the motherbox from its protective casing and lay it on a non-static workbench. The makeshift workbench used in the picture is simply the motherboard box. Check the motherboard for any obvious defects such as bent socket pins before installing the components. To install the CPU: Open up the CPU cover and remove the CPU from its box, avoiding touching sensitive areas. Align the CPU so that it is correctly oriented with the CPU socket, using the bottom-left triangle for reference. Gently place the CPU into the socket and close it.
+Next, open the latches for the RAM slots and push in the RAM sticks according to the optimal layout in the motherboard manual. Press down firmly until the latches snap back up.
 
 
