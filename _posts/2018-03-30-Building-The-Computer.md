@@ -14,3 +14,11 @@ Computer construction involves the connection and linkage of several electrical 
 * Graphics Card - Asus Geforce 1070
 * Power Supply - Corsair TX550M
 * Other Accessories - NZXT Hue+ and Deepcool Fanhub
+
+### Step 1: Connecting Basic System
+
+The first step in building the computer is assembling the core components on the motherboard. This allows us to check whether our parts are faulty or incompatible. It will allow us to boot up the initial system and to check that everything posts.
+
+Installing the CPU | Installing RAM
+:---:---:
+![PC Parts]({{site.url}}{{site.baseurl}}/assets/pcbuilding1.jpg) | ![PC Parts]({{site.url}}{{site.baseurl}}/assets/pcbuilding1.jpg)
