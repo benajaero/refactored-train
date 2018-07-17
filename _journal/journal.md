@@ -102,14 +102,42 @@ Criteria | Not achieved | Achieved to some extent | Achieved to a large extent |
 
 Criteria | Not achieved | Achieved to some extent | Achieved to a large extent | Completely achieved | Explanations/comments
 | --- | --- | --- | --- | --- | --- |
-**Scripting**|
-**Aesthetics**|
+**Features**|
 **Function**| The programming language is not extensible. It cannot be used to create libraries or prackages nor can it be import libraries or packages. It can only be used on one operating system. The programming language is not Turing-complete and cannot be described in a text-format. The programming language does not have a compiler or interpreter. | The programming language is extensible. It cannot be used to create libraries or packages but it can import external libraries. It can be used on multiple operating system. The programming language is Turing-complete and can be described using the ASCII text format. The programming language has a compiler/interpreter. | The programming language is extensible. It supports and can be used to create libraries/packages. It can be used on a wide range of environments. The programming language is Turing-complete and can be described using the ASCII text format. The programming language has a compiler/interpreter. | The programming language is very extensible. It can be used to create libraries/packages and can import libraries from other programming languages. It can be used on a wide range of environments, including an online REPL.The programming language is Turing-complete and can be described using the Unicode text-format. The programming language has both a compiler and interpreter.
 
 ## Timeline
 
 Date: Task | Resources required | Summer Holidays | Wk1 29/1 - 3/2 | Wk2 5/2 - 9/2 | Wk3 12/2 - 16/2 | Wk4 19/2 - 23/2 | Wk5 26/2 - 2/3 | Wk6 5/3 - 9/3 | Wk7 12/3 - 16/3 | Wk8 19/3 - 23/3
 
+
+### General Timeline:
+    * Meet with supervisor at least once each term
+    * Complete building and researching PC by the end of March
+    * Start the report at the beginning of term 3
+    * Start researching and prototyping programming language in April
+    * Start operating system during Term 2-3 holidays.
+
+Supervisor: 
+* Tuesday, Feb 13, Term 1
+* Friday, June 22, Term 2
+* Week 1, Term 3
+
+PC:
+* Finalize PC part list and budget - 3 Jan
+* Receive parts and assemble PC - 30 March
+
+Report:
+* Start report on the 24th of July
+* Finish report on the 17th of August
+
+Programming language:
+* Start - 6 April
+* Finish stable prototype by 17 August
+* Finish, test and write libraries by personal project presentation
+
+Operating System: 
+* Start researching operating system - 24 Jan
+* Start operating system - 5 July
 
 
 # Collaboration with Supervisor - 6 Feb 2018
