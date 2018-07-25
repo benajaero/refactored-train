@@ -286,8 +286,6 @@ Finally, we can start up the system by shorting the PWR pins with a metal object
 
 Now that we have confirmed the parts are functional and compatible, they need to be permanently fixed in their chassis.
 
-
-
 ###  Issues and Notes
 
 There were several unexpected issues in the construction of this computer. The first was dama
@@ -306,8 +304,9 @@ Purpose:
 * Testing configuration files
 * Version-control history for said files
 
+### Design Principles
 
-
+### Deploying Operating System - July 27 2018
 
 ## Creating The Programming Language
 
